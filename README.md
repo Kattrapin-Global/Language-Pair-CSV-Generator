@@ -26,7 +26,7 @@ Language Pair CSV Generator is a Streamlit web app that helps users upload two t
 
 1. Clone or download the project
    ```bash
-   git clone https://github.com/yourusername/language-pair-csv-generator.git
+   git clone https://github.com/Kattrapin-Global/Language-Pair-CSV-Generator.git
    cd language-pair-csv-generator
    ```
 
